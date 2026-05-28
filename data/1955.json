@@ -1,0 +1,90 @@
+[
+  {
+    "id": "event-1955-metro-opening",
+    "title": "Открытие Ленинградского метрополитена",
+    "description": "15 ноября 1955 года состоялось торжественное открытие первой очереди Ленинградского метрополитена имени В.И. Ленина. Первые пассажиры спустились на станции «Площадь Восстания», «Владимирская», «Технологический институт», «Балтийская», «Нарвская» и «Кировский завод».",
+    "lat": 59.931389,
+    "lon": 30.361111,
+    "imgX": 6570,
+    "imgY": 7850,
+    "link": "https://cyberleninka.ru/article/n/stroitelstvo-liniy-metro-glubokogo-zalozheniya"
+  },
+  {
+    "id": "event-1955-metro-technological-institute",
+    "title": "Открытие станции метро «Технологический институт»",
+    "description": "В день открытия Ленинградского метрополитена 15 ноября 1955 года начала работу станция «Технологический институт». Станция глубокого заложения, оформленная в классическом стиле, стала одной из красивейших на первой очереди.",
+    "lat": 59.916667,
+    "lon": 30.318889,
+    "link": "https://cyberleninka.ru/article/n/stroitelstvo-liniy-metro-glubokogo-zalozheniya"
+  },
+  {
+    "id": "event-1955-metro-vladimirskaya",
+    "title": "Открытие станции метро «Владимирская»",
+    "description": "15 ноября 1955 года открыта станция «Владимирская» Ленинградского метрополитена. Станция, расположенная в центральной части города, получила уникальное архитектурное оформление, сохранившееся до настоящего времени.",
+    "lat": 59.927222,
+    "lon": 30.347778,
+    "link": "https://cyberleninka.ru/article/n/stroitelstvo-liniy-metro-glubokogo-zalozheniya"
+  },
+  {
+    "id": "event-1955-stalin-criticism-beginning",
+    "title": "Начало осуждения культа личности в Ленинграде",
+    "description": "После февральского Пленума ЦК КПСС и XX съезда партии в 1956 году, в конце 1955 года в Ленинграде начались первые партийные собрания, на которых обсуждались вопросы преодоления последствий культа личности. В Смольном прошли закрытые собрания партийного актива.",
+    "lat": 59.948889,
+    "lon": 30.400556,
+    "imgX": 7650,
+    "imgY": 6750,
+    "link": "https://cyberleninka.ru/article/n/dvadtsatyy-sezd-kpss-klyuchevye-aspekty-sovremennogo-osmysleniya"
+  },
+  {
+    "id": "event-1955-leningrad-hotel-opening",
+    "title": "Ввод в эксплуатацию гостиницы «Ленинградская»",
+    "description": "В 1955 году гостиница «Ленинградская» на площади Восстания приняла первых гостей. Высотное здание, завершенное в предыдущем году, стало одной из лучших гостиниц города и важным архитектурным акцентом центральной площади.",
+    "lat": 59.931667,
+    "lon": 30.362222,
+    "imgX": 6550,
+    "imgY": 7800,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  },
+  {
+    "id": "event-1955-university-250-anniversary",
+    "title": "Празднование 250-летия Ленинградского университета",
+    "description": "В 1955 году Ленинградский государственный университет имени А.А. Жданова торжественно отметил 250-летие со дня основания. Юбилейные мероприятия прошли в зданиях университета на Васильевском острове и в центре города.",
+    "lat": 59.941667,
+    "lon": 30.299444,
+    "link": "https://cyberleninka.ru/article/n/pervyy-universitet-rossiyskoy-imperii"
+  },
+  {
+    "id": "event-1955-leningrad-city-soviet-metro",
+    "title": "Сессия Ленсовета, посвященная открытию метро",
+    "description": "В 1955 году в здании Ленсовета на Невском проспекте прошла сессия, на которой подведены итоги строительства метрополитена и утверждены перспективы развития городского транспорта. Депутаты отметили высокое качество строительных и отделочных работ.",
+    "lat": 59.931667,
+    "lon": 30.363333,
+    "imgX": 6550,
+    "imgY": 7850,
+    "link": "https://cyberleninka.ru/article/n/stroitelstvo-liniy-metro-glubokogo-zalozheniya"
+  },
+  {
+    "id": "event-1955-hermitage-postwar-opening",
+    "title": "Полное открытие экспозиции Эрмитажа",
+    "description": "В 1955 году Государственный Эрмитаж завершил послевоенное восстановление экспозиционных залов в Зимнем дворце. Музей, пострадавший от обстрелов в годы войны, полностью открыл свои коллекции для посетителей.",
+    "lat": 59.940313,
+    "lon": 30.313783,
+    "link": "https://cyberleninka.ru/article/n/evakuatsiya-muzeynyh-tsennostey-v-molotovskuyu-oblast-v-gody-velikoy-otechestvennoy-voyny-na-primere-russkogo-muzeya"
+  },
+  {
+    "id": "event-1955-leningrad-tram-network",
+    "title": "Восстановление трамвайной сети в центре города",
+    "description": "К 1955 году полностью восстановлена трамвайная сеть в центральных районах Ленинграда, пострадавшая в годы войны и блокады. Трамвайное движение на Невском проспекте и Литейном мосту работало в штатном режиме.",
+    "lat": 59.934444,
+    "lon": 30.328611,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  },
+  {
+    "id": "event-1955-leningrad-marine-facade",
+    "title": "Развитие портовой инфраструктуры Васильевского острова",
+    "description": "В 1955 году завершены работы по восстановлению и расширению портовых сооружений на Васильевском острове в пределах заданной территории. Ленинградский морской порт наращивал грузооборот и укреплял связи с внешнеторговыми партнерами.",
+    "lat": 59.938056,
+    "lon": 30.240278,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  }
+]

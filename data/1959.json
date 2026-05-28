@@ -1,0 +1,102 @@
+[
+  {
+    "id": "event-1959-metro-petrogradskaya-opening",
+    "title": "Открытие станции метро «Петроградская»",
+    "description": "15 ноября 1959 года открыта станция «Петроградская» на Московско-Петроградской линии Ленинградского метрополитена. Станция, расположенная на Петроградской стороне, получила оригинальное архитектурное оформление.",
+    "lat": 59.966667,
+    "lon": 30.311667,
+    "imgX": 2238,
+    "imgY": 2450,
+    "link": "https://cyberleninka.ru/article/n/stroitelstvo-liniy-metro-glubokogo-zalozheniya"
+  },
+  {
+    "id": "event-1959-metro-gorkovskaya-opening",
+    "title": "Открытие станции метро «Горьковская»",
+    "description": "15 ноября 1959 года открыта станция «Горьковская» на Московско-Петроградской линии Ленинградского метрополитена. Станция получила название в честь писателя Максима Горького и расположена в историческом центре города.",
+    "lat": 59.956944,
+    "lon": 30.319167,
+    "imgX": 2335,
+    "imgY": 2720,
+    "link": "https://cyberleninka.ru/article/n/stroitelstvo-liniy-metro-glubokogo-zalozheniya"
+  },
+  {
+    "id": "event-1959-metro-chernyshevskaya-opening",
+    "title": "Открытие станций метро «Чернышевская» и «Площадь Ленина»",
+    "description": "В 1959 году в Ленинграде вступил в строй второй участок Кировско-Выборгской линии метрополитена. Были открыты станции «Чернышевская» (на пересечении проспекта Чернышевского и Финляндского проспекта) и «Площадь Ленина» (у Финляндского вокзала). Это значительно улучшило транспортную доступность центральных и северных районов города. На Брюссельской выставке того же года ленинградский механизированный щит получил «Гран-при».",
+    "lat": 59.9436,
+    "lon": 30.3608,
+    "imgX": 2800,
+    "imgY": 3000,
+    "link": "https://cyberleninka.ru/article/n/stroitelstvo-liniy-metro-glubokogo-zalozheniya"
+  },
+  {
+    "id": "event-1959-leningrad-economic-conference",
+    "title": "Всесоюзное экономическое совещание в Ленинграде",
+    "description": "В 1959 году в Ленинграде прошло Всесоюзное экономическое совещание, посвященное вопросам внедрения научно-технического прогресса в промышленность. Совещание проходило в здании Ленсовета на Невском проспекте.",
+    "lat": 59.931667,
+    "lon": 30.363333,
+    "imgX": 2820,
+    "imgY": 3280,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  },
+  {
+    "id": "event-1959-leningrad-university-anniversary",
+    "title": "Научные чтения к 100-летию Д.И. Менделеева",
+    "description": "В 1959 году Ленинградский государственный университет имени А.А. Жданова провел научные чтения, посвященные 100-летию открытия периодического закона Д.И. Менделеева. Мероприятия прошли в зданиях университета на Васильевском острове.",
+    "lat": 59.941667,
+    "lon": 30.299444,
+    "imgX": 2150,
+    "imgY": 3025,
+    "link": "https://cyberleninka.ru/article/n/pervyy-universitet-rossiyskoy-imperii"
+  },
+  {
+    "id": "event-1959-hermitage-new-exhibition",
+    "title": "Открытие новой экспозиции в Эрмитаже",
+    "description": "В 1959 году Государственный Эрмитаж открыл новую экспозицию западноевропейского искусства в здании Малого Эрмитажа. В экспозицию вошли произведения живописи и скульптуры, ранее не демонстрировавшиеся.",
+    "lat": 59.940313,
+    "lon": 30.313783,
+    "imgX": 2290,
+    "imgY": 3060,
+    "link": "https://cyberleninka.ru/article/n/evakuatsiya-muzeynyh-tsennostey-v-molotovskuyu-oblast-v-gody-velikoy-otechestvennoy-voyny-na-primere-russkogo-muzeya"
+  },
+  {
+    "id": "event-1959-leningrad-mariinsky-ballet",
+    "title": "Гастроли балетной труппы Театра оперы и балета имени С.М. Кирова",
+    "description": "В 1959 году балетная труппа Ленинградского театра оперы и балета имени С.М. Кирова провела серию триумфальных выступлений на сцене театра в центре города. В репертуаре были классические и современные постановки.",
+    "lat": 59.925833,
+    "lon": 30.296111,
+    "imgX": 2100,
+    "imgY": 3400,
+    "link": "https://cyberleninka.ru/article/n/leningradskie-muzykanty-v-tashkente-i-novosibirske-1940-1950-e-gg"
+  },
+  {
+    "id": "event-1959-leningrad-industrial-exhibition",
+    "title": "Выставка достижений промышленности Ленинграда",
+    "description": "В 1959 году в выставочных залах на Невском проспекте прошла выставка, посвященная достижениям промышленности Ленинграда за годы семилетки. Экспонировались образцы новой техники и товаров народного потребления.",
+    "lat": 59.933056,
+    "lon": 30.331667,
+    "imgX": 2490,
+    "imgY": 3220,
+    "link": "https://cyberleninka.ru/article/n/evakuatsiya-muzeynyh-tsennostey-v-molotovskuyu-oblast-v-gody-velikoy-otechestvennoy-voyny-na-primere-russkogo-muzeya"
+  },
+  {
+    "id": "event-1959-leningrad-palace-square-reconstruction",
+    "title": "Благоустройство Дворцовой площади",
+    "description": "В 1959 году проведены работы по благоустройству Дворцовой площади — главной площади города. Выполнено мощение покрытия, восстановлено освещение, подготовлена площадка для проведения массовых мероприятий.",
+    "lat": 59.939722,
+    "lon": 30.315833,
+    "imgX": 2320,
+    "imgY": 3100,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  },
+  {
+    "id": "event-1959-leningrad-bridge-illumination",
+    "title": "Художественное освещение мостов через Неву",
+    "description": "В 1959 году впервые в истории города выполнено художественное освещение Дворцового, Троицкого и Литейного мостов. Архитектурная подсветка стала новым элементом вечернего облика центральных районов.",
+    "lat": 59.940278,
+    "lon": 30.308889,
+    "imgX": 2250,
+    "imgY": 3070,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  }
+]

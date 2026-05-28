@@ -1,0 +1,74 @@
+[
+  {
+    "id": "event-1957-leningrad-250-anniversary",
+    "title": "Празднование 250-летия Ленинграда",
+    "description": "В 1957 году город торжественно отметил 250-летие со дня основания. Юбилейные мероприятия прошли на Дворцовой площади, в парках и на центральных магистралях. Были открыты новые памятники и благоустроены исторические зоны.",
+    "lat": 59.939722,
+    "lon": 30.315833,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  },
+  {
+    "id": "event-1957-leningrad-soviet-reforms",
+    "title": "Реформа управления промышленностью в Ленинграде",
+    "description": "В 1957 году в соответствии с решениями майского Пленума ЦК КПСС в Ленинграде началась реформа управления промышленностью. В Смольном и зданиях Ленсовета проходили совещания по созданию совнархозов.",
+    "lat": 59.948889,
+    "lon": 30.400556,
+    "imgX": 9700,
+    "imgY": 11000,
+    "link": "https://cyberleninka.ru/article/n/sistema-sovnarhozov-yavlyaetsya-bezuslovno-progressivnoy-iz-istorii-leningradskogo-soveta-narodnogo-hozyaystva-1957-1966-gody"
+  },
+  {
+    "id": "event-1957-spasskaya-tower-replica",
+    "title": "Установка копии Спасской башни в Александровском саду",
+    "description": "В 1957 году в Александровском саду у стен Петропавловской крепости была установлена копия Спасской башни Московского Кремля в рамках празднования 250-летия Ленинграда. Объект стал одной из новых достопримечательностей центра города.",
+    "lat": 59.953333,
+    "lon": 30.316667,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  },
+  {
+    "id": "event-1957-festival-youth-meetings",
+    "title": "Встречи участников фестиваля на Невском проспекте",
+    "description": "В дни VI Всемирного фестиваля молодежи и студентов в 1957 году Невский проспект стал главной артерией, где проходили неформальные встречи делегатов из разных стран. Тысячи ленинградцев участвовали в фестивальных мероприятиях.",
+    "lat": 59.934444,
+    "lon": 30.328611,
+    "imgX": 5950,
+    "imgY": 12330,
+    "link": "https://cyberleninka.ru/article/n/festival-molodyozhi-v-1957-g-izmenil-sssr-pervyy-proryv-zheleznogo-zanavesa"
+  },
+  {
+    "id": "event-1957-hermitage-jubilee-exhibition",
+    "title": "Юбилейная выставка в Эрмитаже",
+    "description": "В 1957 году Государственный Эрмитаж открыл юбилейную выставку, посвященную 250-летию Ленинграда и 250-летию со дня основания музея. В экспозицию вошли наиболее ценные произведения из собрания музея.",
+    "lat": 59.940313,
+    "lon": 30.313783,
+    "link": "https://cyberleninka.ru/article/n/evakuatsiya-muzeynyh-tsennostey-v-molotovskuyu-oblast-v-gody-velikoy-otechestvennoy-voyny-na-primere-russkogo-muzeya"
+  },
+  {
+    "id": "event-1957-leningrad-tv-center",
+    "title": "Начало регулярного телевещания из центра Ленинграда",
+    "description": "В 1957 году Ленинградский телецентр на улице Чапаева (Петроградская сторона) начал регулярное вещание. Жители центральных районов получили возможность смотреть передачи ленинградского телевидения.",
+    "lat": 59.961111,
+    "lon": 30.331778,
+    "imgX": 6200,
+    "imgY": 9540,
+    "link": "https://cyberleninka.ru/article/n/istoriya-stanovleniya-stalingradskogo-volgogradskogo-televideniya-v-seredine-1950-h-1960-e-gg"
+  },
+  {
+    "id": "event-1957-leningrad-parks-restoration",
+    "title": "Завершение восстановления парков центра",
+    "description": "В 1957 году завершены основные работы по восстановлению Летнего сада, Михайловского сада и других парковых зон в центре Ленинграда. Зеленые насаждения, пострадавшие в годы войны, были полностью восстановлены.",
+    "lat": 59.939294,
+    "lon": 30.335499,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  },
+  {
+    "id": "event-1957-leningrad-bridge-restoration",
+    "title": "Реконструкция Литейного моста",
+    "description": "В 1957 году завершена реконструкция Литейного моста, соединяющего центр города с Выборгской стороной. Проведены работы по замене несущих конструкций и благоустройству прилегающих набережных.",
+    "lat": 59.951667,
+    "lon": 30.348056,
+    "imgX": 7140,
+    "imgY": 10600,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  }
+]

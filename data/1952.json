@@ -1,0 +1,102 @@
+[
+  {
+    "id": "event-1952-metro-ploshchad-vosstaniya",
+    "title": "Отделка станции метро «Площадь Восстания»",
+    "description": "В 1952 году велись отделочные работы на станции «Площадь Восстания» первой очереди Ленинградского метрополитена. Архитектурное оформление станции разрабатывалось под руководством И.Г. Явейна. Станция открыта 15 ноября 1955 года.",
+    "lat": 59.931389,
+    "lon": 30.361111,
+    "imgX": 6940,
+    "imgY": 8110,
+    "link": "https://cyberleninka.ru/article/n/stroitelstvo-liniy-metro-glubokogo-zalozheniya"
+  },
+  {
+    "id": "event-1952-metro-vladimirskaya",
+    "title": "Строительство станции метро «Владимирская»",
+    "description": "В 1952 году продолжались строительные работы на станции «Владимирская» Ленинградского метрополитена. Станция глубокого заложения, сооруженная по индивидуальному проекту, открыта 15 ноября 1955 года.",
+    "lat": 59.927222,
+    "lon": 30.347778,
+    "imgX": 6500,
+    "imgY": 8280,
+    "link": "https://cyberleninka.ru/article/n/stroitelstvo-liniy-metro-glubokogo-zalozheniya"
+  },
+  {
+    "id": "event-1952-liteyny-4",
+    "title": "Завершение строительства здания на Литейном проспекте, 4",
+    "description": "В 1952 году завершено строительство административного здания на Литейном проспекте, 4 (Большой дом) — одного из главных образцов послевоенной сталинской архитектуры в центре Ленинграда. Здание построено по проекту архитекторов Н.А. Троцкого и А.И. Гегелло.",
+    "lat": 59.949111,
+    "lon": 30.349167,
+    "imgX": 6562,
+    "imgY": 6968,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  },
+  {
+    "id": "event-1952-smolny-reconstruction",
+    "title": "Реконструкция Смольного",
+    "description": "В 1952 году в Смольном — административном центре Ленинграда — проводились ремонтно-восстановительные работы и благоустройство прилегающей территории после военных лет. Здание сохраняло функции штаба обороны города и центра партийного руководства.",
+    "lat": 59.948889,
+    "lon": 30.400556,
+    "imgX": 8130,
+    "imgY": 6950,
+    "link": "https://cyberleninka.ru/article/n/repressirovannaya-pamyat-kampaniya-protiv-leningradskoy-traktovki-blokady-v-stalinskom-sssr-1949-1952-gg-na-primere-muzeya-oborony"
+  },
+  {
+    "id": "event-1952-finlyandsky-railway",
+    "title": "Реконструкция Финляндского вокзала",
+    "description": "В 1952 году продолжалась послевоенная реконструкция Финляндского вокзала — одного из ключевых транспортных узлов в северо-западной части Ленинграда. Вокзал, пострадавший в годы войны, восстанавливался с сохранением исторического облика.",
+    "lat": 59.955556,
+    "lon": 30.356944,
+    "imgX": 6754,
+    "imgY": 6521,
+    "link": "https://cyberleninka.ru/article/n/doroga-zhizni-blokadnaya-arteriya-leningrada"
+  },
+  {
+    "id": "event-1952-academy-sciences-session",
+    "title": "Научная сессия АН СССР в Ленинграде",
+    "description": "В 1952 году в зданиях Академии наук СССР на Университетской набережной и Васильевском острове проводились научные сессии, посвященные итогам послевоенного восстановления науки и промышленности Ленинграда.",
+    "lat": 59.941944,
+    "lon": 30.296111,
+    "imgX": 5031,
+    "imgY": 7376,
+    "link": "https://cyberleninka.ru/article/n/pervyy-universitet-rossiyskoy-imperii"
+  },
+  {
+    "id": "event-1952-nevsky-herring",
+    "title": "Восстановление торговли на Невском проспекте",
+    "description": "К 1952 году на Невском проспекте — главной магистрали в центре заданных координат — завершилось восстановление большинства торговых предприятий и универмагов, разрушенных в годы блокады и обстрелов. Возобновилась полноценная розничная торговля.",
+    "lat": 59.934444,
+    "lon": 30.328611,
+    "imgX": 5800,
+    "imgY": 7850,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  },
+  {
+    "id": "event-1952-leningrad-pravda",
+    "title": "Издание многотомной истории Ленинграда",
+    "description": "В 1952 году в издательстве «Ленинградская правда» (в центре города) началась работа над фундаментальным многотомным трудом «Очерки истории Ленинграда», обобщавшим итоги восстановления города и его исторический путь.",
+    "lat": 59.931111,
+    "lon": 30.361111,
+    "imgX": 6952,
+    "imgY": 8100,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  },
+  {
+    "id": "event-1952-kirovsky-most-repair",
+    "title": "Капитальный ремонт Кировского моста",
+    "description": "В 1952 году проводился капитальный ремонт Кировского моста (бывшего Троицкого, ныне Троицкий) после повреждений, полученных в годы войны. Мост соединял центр города с Петроградской стороной",
+    "lat": 59.950056,
+    "lon": 30.323778,
+    "imgX": 5860,
+    "imgY": 6968,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  },
+  {
+    "id": "event-1952-pionerskaya-ploshchad",
+    "title": "Благоустройство Пионерской площади",
+    "description": "В 1952 году завершены работы по благоустройству Пионерской площади (ныне площадь Искусств) в центре Ленинграда. Восстановлены зеленые насаждения и исторические здания вокруг площади, включая Русский музей и Филармонию.",
+    "lat": 59.937778,
+    "lon": 30.331667,
+    "imgX": 6000,
+    "imgY": 7670,
+    "link": "https://cyberleninka.ru/article/n/leningradskie-muzykanty-v-tashkente-i-novosibirske-1940-1950-e-gg"
+  }
+]

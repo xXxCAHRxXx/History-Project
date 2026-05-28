@@ -1,0 +1,96 @@
+[
+  {
+    "id": "event-1956-xx-congress-discussion",
+    "title": "Обсуждение решений XX съезда КПСС в Ленинграде",
+    "description": "В марте-апреле 1956 года в Смольном и в партийных организациях Ленинграда прошли собрания и пленумы, посвященные обсуждению решений XX съезда КПСС и доклада о преодолении культа личности. В обсуждениях участвовали тысячи коммунистов города.",
+    "lat": 59.948889,
+    "lon": 30.400556,
+    "imgX": 9700,
+    "imgY": 11000,
+    "link": "https://cyberleninka.ru/article/n/dvadtsatyy-sezd-kpss-klyuchevye-aspekty-sovremennogo-osmysleniya"
+  },
+  {
+    "id": "event-1956-rehabilitation-beginning",
+    "title": "Начало реабилитации в Ленинграде",
+    "description": "В 1956 году в Ленинграде начался процесс реабилитации граждан, необоснованно репрессированных в 1930-1940-е годы. Работа по пересмотру дел велась в прокуратуре города и управлении КГБ по Ленинградской области, расположенных в центральных районах.",
+    "lat": 59.934722,
+    "lon": 30.353611,
+    "imgX": 7100,
+    "imgY": 12175,
+    "link": "https://cyberleninka.ru/article/n/repressirovannaya-pamyat-kampaniya-protiv-leningradskoy-traktovki-blokady-v-stalinskom-sssr-1949-1952-gg-na-primere-muzeya-oborony"
+  },
+  {
+    "id": "event-1956-metro-second-line-design",
+    "title": "Проектирование второй очереди метрополитена",
+    "description": "В 1956 году Ленинградский метропроект завершил разработку технического проекта второй очереди метро, включавшей строительство Московско-Петроградской линии. Проектные работы велись в центральных мастерских города.",
+    "lat": 59.931389,
+    "lon": 30.361111,
+    "imgX": 7750,
+    "imgY": 12840,
+    "link": "https://cyberleninka.ru/article/n/stroitelstvo-liniy-metro-glubokogo-zalozheniya"
+  },
+  {
+    "id": "event-1956-leningrad-soviet-urban-planning",
+    "title": "Сессия Ленсовета по вопросам градостроительства",
+    "description": "В 1956 году в здании Ленсовета на Невском проспекте прошла сессия, на которой обсуждались перспективы развития Ленинграда в свете решений XX съезда КПСС. Особое внимание уделялось жилищному строительству и благоустройству центральных районов.",
+    "lat": 59.931667,
+    "lon": 30.363333,
+    "imgX": 7750,
+    "imgY": 12900,
+    "link": "https://cyberleninka.ru/article/n/dvadtsatyy-sezd-kpss-klyuchevye-aspekty-sovremennogo-osmysleniya"
+  },
+  {
+    "id": "event-1956-winter-palace-restoration",
+    "title": "Завершение реставрации Иорданской лестницы и парадных залов Зимнего дворца",
+    "description": "В 1956 году в Государственном Эрмитаже завершилась масштабная реставрация Иорданской лестницы и главных парадных залов Зимнего дворца, пострадавших в годы войны. Были восстановлены уникальные интерьеры XVIII–XIX веков, включая лепнину, позолоту и живописные плафоны. Открытие обновлённых залов для посетителей состоялось в ноябре 1956 года и было приурочено к 40-летию Октябрьской революции.",
+    "lat": 59.9404,
+    "lon": 30.3139,
+    "link": "https://cyberleninka.ru/article/n/evakuatsiya-muzeynyh-tsennostey-v-molotovskuyu-oblast-v-gody-velikoy-otechestvennoy-voyny-na-primere-russkogo-muzeya"
+  },
+  {
+    "id": "event-1956-leningrad-university-science",
+    "title": "Научные конференции в Ленинградском университете",
+    "description": "В 1956 году Ленинградский государственный университет имени А.А. Жданова провел серию научных конференций, посвященных актуальным проблемам физики, химии и гуманитарных наук. В работе конференций участвовали ученые из разных городов СССР.",
+    "lat": 59.941667,
+    "lon": 30.299444,
+    "link": "https://cyberleninka.ru/article/n/pervyy-universitet-rossiyskoy-imperii"
+  },
+  {
+    "id": "event-1956-finlyandsky-station-upgrade",
+    "title": "Модернизация Финляндского вокзала",
+    "description": "В 1956 году завершилась модернизация путевого хозяйства и пассажирских сервисов Финляндского вокзала. Вокзал, остававшийся важнейшим транспортным узлом города, был подготовлен к увеличению пассажиропотока.",
+    "lat": 59.955556,
+    "lon": 30.356944,
+    "link": "https://cyberleninka.ru/article/n/doroga-zhizni-blokadnaya-arteriya-leningrada"
+  },
+  {
+    "id": "event-1956-leningrad-filarmonia-season",
+    "title": "Открытие нового концертного сезона в Филармонии",
+    "description": "В 1956 году Ленинградская филармония имени Д.Д. Шостаковича открыла новый концертный сезон. В Большом зале филармонии на Невском проспекте выступали выдающиеся дирижеры и солисты, в том числе Е.А. Мравинский и С.Т. Рихтер.",
+    "lat": 59.935556,
+    "lon": 30.33,
+    "imgX": 6100,
+    "imgY": 12300,
+    "link": "https://cyberleninka.ru/article/n/leningradskie-muzykanty-v-tashkente-i-novosibirske-1940-1950-e-gg"
+  },
+  {
+    "id": "event-1956-leningrad-industry-expansion",
+    "title": "Расширение промышленных предприятий Выборгской стороны",
+    "description": "В 1956 году промышленные предприятия Выборгской стороны завершили выполнение пятилетнего плана и приступили к модернизации производственных мощностей. Внедрялись новые технологии и осваивалась продукция гражданского назначения.",
+    "lat": 59.97,
+    "lon": 30.345,
+    "imgX": 7000,
+    "imgY": 8900,
+    "link": "https://cyberleninka.ru/article/n/vosstanovlenie-narodnogo-hozyaystva-posle-velikoy-otechestvennoy-voyny-istoricheskie-uroki"
+  },
+  {
+    "id": "event-1956-leningrad-sport-events",
+    "title": "Проведение всесоюзных спортивных соревнований",
+    "description": "В 1956 году в Ленинграде прошли всесоюзные спортивные соревнования по легкой атлетике и гребле. Спортивные арены в центральной части города, включая стадион имени С.М. Кирова на Крестовском острове, приняли тысячи спортсменов и зрителей.",
+    "lat": 59.978889,
+    "lon": 30.265556,
+    "imgX": 2850,
+    "imgY": 7650,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  }
+]

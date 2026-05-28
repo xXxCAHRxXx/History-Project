@@ -1,0 +1,82 @@
+[
+  {
+    "id": "event-1953-stalin-death-leningrad",
+    "title": "Траурные мероприятия в Ленинграде",
+    "description": "5 марта 1953 года после смерти И.В. Сталина в Ленинграде объявлен траур. Тысячи горожан собрались на площадях и улицах в центре города, включая Дворцовую площадь и Невский проспект",
+    "lat": 59.939722,
+    "lon": 30.315833,
+    "link": "https://cyberleninka.ru/article/n/dvadtsatyy-sezd-kpss-klyuchevye-aspekty-sovremennogo-osmysleniya"
+  },
+  {
+    "id": "event-1953-metro-test-run",
+    "title": "Пробные пуски поездов на первой очереди метро",
+    "description": "В 1953 году на трассе первой очереди Ленинградского метрополитена начались пробные пуски поездов. Участок от станции «Автово» до «Площади Восстания» проходил через центральные районы города",
+    "lat": 59.931389,
+    "lon": 30.361111,
+    "link": "https://cyberleninka.ru/article/n/stroitelstvo-liniy-metro-glubokogo-zalozheniya"
+  },
+  {
+    "id": "event-1953-leningrad-party-reorganization",
+    "title": "Реорганизация партийного руководства",
+    "description": "После смерти Сталина в марте 1953 года в Ленинграде, как и по всей стране, прошла реорганизация партийных структур. В Смольном состоялись пленумы обкома и горкома ВКП(б), переименованного в КПСС.",
+    "lat": 59.948889,
+    "lon": 30.393556,
+    "link": "https://cyberleninka.ru/article/n/dvadtsatyy-sezd-kpss-klyuchevye-aspekty-sovremennogo-osmysleniya"
+  },
+  {
+    "id": "event-1953-russian-museum-restoration",
+    "title": "Завершение реставрации Русского музея",
+    "description": "В 1953 году завершена масштабная послевоенная реставрация зданий Государственного Русского музея (Михайловский дворец и корпус Бенуа). Музей полностью восстановил экспозицию после военных повреждений.",
+    "lat": 59.938611,
+    "lon": 30.332222,
+    "link": "https://cyberleninka.ru/article/n/evakuatsiya-muzeynyh-tsennostey-v-molotovskuyu-oblast-v-gody-velikoy-otechestvennoy-voyny-na-primere-russkogo-muzeya"
+  },
+  {
+    "id": "event-1953-leningrad-affair-rehabilitation",
+    "title": "Начало реабилитации осуждённых по «Ленинградскому делу»",
+    "description": "Весной 1953 года, после смерти И. В. Сталина, начался пересмотр «Ленинградского дела» — одного из самых громких политических процессов послевоенного периода. В ходе этого дела в 1949–1950 годах были расстреляны или приговорены к длительным срокам заключения многие руководящие работники Ленинграда и области, включая секретаря ЦК ВКП(б) А. А. Кузнецова, председателя Госплана Н. А. Вознесенского и председателя Ленгорисполкома П. С. Попкова. Уже в марте 1953 года была создана комиссия по пересмотру дела, и началась реабилитация невинно осуждённых. Это событие стало важным шагом в преодолении сталинского наследия и возвращении доброго имени тысячам ленинградцев, пострадавших в годы репрессий.",
+    "lat": 59.9489,
+    "lon": 30.3936,
+    "link": "https://cyberleninka.ru/article/n/repressirovannaya-pamyat-kampaniya-protiv-leningradskoy-traktovki-blokady-v-stalinskom-sssr-1949-1952-gg-na-primere-muzeya-oborony"
+  },
+  {
+    "id": "event-1953-finlyandsky-station-expansion",
+    "title": "Расширение Финляндского вокзала",
+    "description": "В 1953 году начались работы по расширению привокзальной площади Финляндского вокзала и реконструкции путевого хозяйства. Вокзал, расположенный в северо-западной части Ленинграда, оставался важнейшим транспортным узлом города.",
+    "lat": 59.955556,
+    "lon": 30.356944,
+    "link": "https://cyberleninka.ru/article/n/doroga-zhizni-blokadnaya-arteriya-leningrada"
+  },
+  {
+    "id": "event-1953-leningrad-scientific-conference",
+    "title": "Научная конференция по истории Ленинграда",
+    "description": "В 1953 году в Ленинградском отделении Института истории АН СССР (в центре города) прошла научная конференция, посвященная итогам послевоенного восстановления и историографии Ленинграда. Материалы конференции опубликованы в «Ученых записках».",
+    "lat": 59.941944,
+    "lon": 30.296111,
+    "link": "https://cyberleninka.ru/article/n/pervyy-universitet-rossiyskoy-imperii"
+  },
+  {
+    "id": "event-1953-leningrad-gorky-park",
+    "title": "Восстановление Центрального парка культуры и отдыха",
+    "description": "В 1953 году завершены основные работы по восстановлению Центрального парка культуры и отдыха имени С.М. Кирова (Елагин остров) в северо-западной части заданных координат. Парк, пострадавший в годы войны, вновь открыт для горожан.",
+    "lat": 59.978889,
+    "lon": 30.265556,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  },
+  {
+    "id": "event-1953-leningrad-textile-mill",
+    "title": "Восстановление текстильных предприятий Выборгской стороны",
+    "description": "В 1953 году завершена послевоенная реконструкция текстильных предприятий на Выборгской стороне. Производственные мощности доведены до довоенного уровня, возобновлен выпуск тканей для населения.",
+    "lat": 59.97,
+    "lon": 30.345,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  },
+  {
+    "id": "event-1953-leningrad-city-soviet",
+    "title": "Сессии Ленинградского городского Совета",
+    "description": "В 1953 году в здании Ленинградского городского Совета на Невском проспекте прошли сессии, на которых утверждались планы развития городского хозяйства и социальной сферы на послесталинский период.",
+    "lat": 59.931667,
+    "lon": 30.363333,
+    "link": "https://cyberleninka.ru/article/n/dvadtsatyy-sezd-kpss-klyuchevye-aspekty-sovremennogo-osmysleniya"
+  }
+]

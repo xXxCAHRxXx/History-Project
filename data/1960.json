@@ -1,0 +1,102 @@
+[
+  {
+    "id": "event-1960-metro-nevsky-prospekt-opening",
+    "title": "Открытие станции метро «Невский проспект»",
+    "description": "1 июля 1960 года открыта станция «Невский проспект» на Невско-Василеостровской линии Ленинградского метрополитена. Станция стала первым пересадочным узлом города, соединив две линии метро.",
+    "lat": 59.935,
+    "lon": 30.329722,
+    "imgX": 2450,
+    "imgY": 3175,
+    "link": "https://cyberleninka.ru/article/n/stroitelstvo-liniy-metro-glubokogo-zalozheniya"
+  },
+  {
+    "id": "event-1960-metro-gostiny-dvor-opening",
+    "title": "Открытие станции метро «Гостиный двор»",
+    "description": "1 июля 1960 года открыта станция «Гостиный двор» на Невско-Василеостровской линии Ленинградского метрополитена. Станция расположена в историческом центре города под Невским проспектом.",
+    "lat": 59.933889,
+    "lon": 30.3325,
+    "imgX": 2490,
+    "imgY": 3220,
+    "link": "https://cyberleninka.ru/article/n/stroitelstvo-liniy-metro-glubokogo-zalozheniya"
+  },
+  {
+    "id": "event-1960-metro-vasileostrovskaya-construction",
+    "title": "Строительство станции метро «Василеостровская»",
+    "description": "В 1960 году велось активное строительство станции «Василеостровская» на Невско-Василеостровской линии метрополитена. Работы велись в сложных гидрогеологических условиях Васильевского острова.",
+    "lat": 59.943889,
+    "lon": 30.278056,
+    "imgX": 1890,
+    "imgY": 3035,
+    "link": "https://cyberleninka.ru/article/n/stroitelstvo-liniy-metro-glubokogo-zalozheniya"
+  },
+  {
+    "id": "event-1960-leningrad-sovnarkhoz-reform",
+    "title": "Реорганизация Ленинградского совнархоза",
+    "description": "В 1960 году проведена реорганизация Ленинградского совнархоза, направленная на повышение эффективности управления промышленностью. Новые структуры разместились в административных зданиях в центре города.",
+    "lat": 59.931667,
+    "lon": 30.363333,
+    "imgX": 2820,
+    "imgY": 3280,
+    "link": "https://cyberleninka.ru/article/n/sistema-sovnarhozov-yavlyaetsya-bezuslovno-progressivnoy-iz-istorii-leningradskogo-soveta-narodnogo-hozyaystva-1957-1966-gody"
+  },
+  {
+    "id": "event-1960-leningrad-university-new-courses",
+    "title": "Открытие новых факультетов в ЛГУ",
+    "description": "В 1960 году Ленинградский государственный университет имени А.А. Жданова открыл новые факультеты — прикладной математики и социологии. Учебные корпуса разместились в исторических зданиях университета на Васильевском острове.",
+    "lat": 59.941667,
+    "lon": 30.299444,
+    "imgX": 2160,
+    "imgY": 3030,
+    "link": "https://cyberleninka.ru/article/n/pervyy-universitet-rossiyskoy-imperii"
+  },
+  {
+    "id": "event-1960-hermitage-pushkin-exhibition",
+    "title": "Выставка, посвященная А.С. Пушкину, в Эрмитаже",
+    "description": "В 1960 году Государственный Эрмитаж открыл выставку, посвященную 160-летию со дня рождения А.С. Пушкина. В экспозицию вошли портреты поэта, прижизненные издания и предметы пушкинской эпохи из собрания музея.",
+    "lat": 59.940313,
+    "lon": 30.313783,
+    "imgX": 2300,
+    "imgY": 3080,
+    "link": "https://cyberleninka.ru/article/n/evakuatsiya-muzeynyh-tsennostey-v-molotovskuyu-oblast-v-gody-velikoy-otechestvennoy-voyny-na-primere-russkogo-muzeya"
+  },
+  {
+    "id": "event-1960-leningrad-filarmonia-shostakovich",
+    "title": "Премьера симфонии Шостаковича в Большом зале филармонии",
+    "description": "В 1960 году в Большом зале Ленинградской филармонии имени Д.Д. Шостаковича состоялась премьера Восьмого квартета Дмитрия Шостаковича. Композитор лично присутствовал на исполнении.",
+    "lat": 59.935556,
+    "lon": 30.33,
+    "imgX": 2500,
+    "imgY": 3175,
+    "link": "https://cyberleninka.ru/article/n/leningradskie-muzykanty-v-tashkente-i-novosibirske-1940-1950-e-gg"
+  },
+  {
+    "id": "event-1960-leningrad-mariinsky-premiere",
+    "title": "Премьера балета «Спартак» в Театре оперы и балета имени С.М. Кирова",
+    "description": "В 1960 году на сцене Ленинградского театра оперы и балета имени С.М. Кирова состоялась премьера балета Арама Хачатуряна «Спартак» в хореографии Леонида Якобсона. Постановка вызвала широкий резонанс.",
+    "lat": 59.925833,
+    "lon": 30.296111,
+    "imgX": 2100,
+    "imgY": 3400,
+    "link": "https://cyberleninka.ru/article/n/leningradskie-muzykanty-v-tashkente-i-novosibirske-1940-1950-e-gg"
+  },
+  {
+    "id": "event-1960-leningrad-architects-congress",
+    "title": "Съезд архитекторов СССР в Ленинграде",
+    "description": "В 1960 году в Ленинграде прошел съезд архитекторов СССР, посвященный вопросам градостроительства и массового жилищного строительства. Мероприятия прошли в зданиях в центре города.",
+    "lat": 59.935833,
+    "lon": 30.335556,
+    "imgX": 2525,
+    "imgY": 3170,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  },
+  {
+    "id": "event-1960-leningrad-river-neva-embankment",
+    "title": "Завершение реконструкции набережных Невы в центре города",
+    "description": "В 1960 году завершена реконструкция гранитных набережных Невы на участке от Дворцового моста до Литейного моста. Восстановлены исторические спуски к воде и чугунные ограждения.",
+    "lat": 59.946011,
+    "lon": 30.3325,
+    "imgX": 2460,
+    "imgY": 2940,
+    "link": "https://cyberleninka.ru/article/n/poslevoennaya-zastroyka-leningrada-v-kontekste-polemiki-mezhdu-tsentralnymi-i-mestnymi-organami-vlasti-v-1950-e-gody"
+  }
+]

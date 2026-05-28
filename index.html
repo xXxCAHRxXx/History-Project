@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ленинград 1940–1960 · Интерактивная карта</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://api-maps.yandex.ru/2.1/?apikey=8c3d82cb-e67d-4a86-ab02-7b13d5e5e2d3&lang=ru_RU" type="text/javascript"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>ЛЕНИНГРАД · 1940–1960</h1>
+            <div class="year-info clickable" id="yearInfo" title="Нажмите, чтобы узнать подробнее">Год 1940</div>
+        </header>
+
+        <main>
+            <div class="map-container historical" id="historicalMapContainer">
+                <canvas id="historicalCanvas"></canvas>
+            </div>
+            <div class="map-container yandex" id="yandexMapContainer"></div>
+        </main>
+
+        <footer>
+            <input type="range" id="yearSlider" min="1940" max="1960" value="1940" step="1">
+            <div class="slider-labels">
+                <span>1940</span>
+                <span>1960</span>
+            </div>
+        </footer>
+    </div>
+
+    <div id="eventPopup" class="popup">
+        <div class="popup-content">
+            <span class="close">&times;</span>
+            <h3 id="popupTitle"></h3>
+            <p id="popupDescription"></p>
+        </div>
+    </div>
+
+    <script src="js/historical-map.js"></script>
+    <script src="js/yandex-map.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
