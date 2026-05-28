@@ -17,6 +17,10 @@ class HistoricalMap {
         this.points = [];
         this.highlightedPoint = null;
 
+        this.imageCache = {};   
+        this._loader = null;
+        this._loaderText = null;
+
         this.offsetX = 0;
         this.offsetY = 0;
         this.zoom = 1;
@@ -55,20 +59,104 @@ class HistoricalMap {
     
     
     async setImage(imageUrl) {
+        
+        if (this.imageCache[imageUrl]) {
+            this._applyImage(this.imageCache[imageUrl]);
+            return;
+        }
+
+        this._showLoader();
+        try {
+            let img;
+            try {
+                
+                img = await this._fetchImageWithProgress(imageUrl, (p) => this._updateLoaderProgress(p));
+            } catch (streamErr) {
+                
+                console.warn('Загрузка с прогрессом не удалась, обычная загрузка', streamErr);
+                img = await this._loadImage(imageUrl);
+            }
+            this.imageCache[imageUrl] = img;
+            this._applyImage(img);
+        } finally {
+            this._hideLoader();
+        }
+    }
+
+    _applyImage(img) {
+        this.image = img;
+        this.imageWidth = img.width;
+        this.imageHeight = img.height;
+        this._coverImage();
+        this.draw();
+    }
+
+    
+    
+    async _fetchImageWithProgress(url, onProgress) {
+        const resp = await fetch(url);
+        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+
+        
+        if (!resp.body || !resp.body.getReader) {
+            return this._imageFromBlob(await resp.blob());
+        }
+
+        const total = parseInt(resp.headers.get('Content-Length') || '0', 10);
+        const reader = resp.body.getReader();
+        const chunks = [];
+        let received = 0;
+        for (;;) {
+            const { done, value } = await reader.read();
+            if (done) break;
+            chunks.push(value);
+            received += value.length;
+            if (total > 0 && onProgress) onProgress(received / total);
+        }
+        return this._imageFromBlob(new Blob(chunks));
+    }
+
+    _imageFromBlob(blob) {
         return new Promise((resolve, reject) => {
+            const objUrl = URL.createObjectURL(blob);
             const img = new Image();
-            img.crossOrigin = 'anonymous';
-            img.onload = () => {
-                this.image = img;
-                this.imageWidth = img.width;
-                this.imageHeight = img.height;
-                this._coverImage();
-                this.draw();
-                resolve();
-            };
-            img.onerror = reject;
-            img.src = imageUrl;
+            img.onload = () => { URL.revokeObjectURL(objUrl); resolve(img); };
+            img.onerror = (e) => { URL.revokeObjectURL(objUrl); reject(e); };
+            img.src = objUrl;
         });
+    }
+
+    _loadImage(url) {
+        return new Promise((resolve, reject) => {
+            const im = new Image();
+            im.crossOrigin = 'anonymous';
+            im.onload = () => resolve(im);
+            im.onerror = reject;
+            im.src = url;
+        });
+    }
+
+    _showLoader() {
+        if (!this._loader) {
+            const d = document.createElement('div');
+            d.className = 'map-loader';
+            d.innerHTML = '<div class="map-loader-spinner"></div><div class="map-loader-text">Загрузка карты…</div>';
+            this.container.appendChild(d);
+            this._loader = d;
+            this._loaderText = d.querySelector('.map-loader-text');
+        }
+        this._loaderText.textContent = 'Загрузка карты…';
+        this._loader.style.display = 'flex';
+    }
+
+    _updateLoaderProgress(p) {
+        if (!this._loaderText) return;
+        const pct = Math.round(Math.max(0, Math.min(1, p)) * 100);
+        this._loaderText.textContent = `Загрузка карты… ${pct}%`;
+    }
+
+    _hideLoader() {
+        if (this._loader) this._loader.style.display = 'none';
     }
 
     

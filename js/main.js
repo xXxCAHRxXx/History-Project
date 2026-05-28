@@ -3,8 +3,8 @@ let yandexMap;
 let currentYear = 1940;
 let boundsData = {};
 let yearInfoData = {};
-let mapsIndex = null;
-let currentMapKey = null;
+let mapsIndex = null;      
+let currentMapKey = null;  
 
 const yearSlider = document.getElementById('yearSlider');
 const yearInfo = document.getElementById('yearInfo');
@@ -14,6 +14,14 @@ const popupDesc = document.getElementById('popupDescription');
 const closePopup = document.querySelector('.close');
 
 window.addEventListener('load', async () => {
+    
+    
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('sw.js').catch((err) => {
+            console.warn('Service Worker не зарегистрирован', err);
+        });
+    }
+
     historicalMap = new HistoricalMap('historicalCanvas', 'historicalMapContainer');
     historicalMap.resizeCanvas();
 
@@ -40,6 +48,9 @@ window.addEventListener('load', async () => {
         console.error('Не удалось загрузить year-info.json', e);
     }
 
+    
+    
+    
     try {
         const response = await fetch('data/maps-index.json');
         if (response.ok) {
@@ -119,6 +130,8 @@ window.addEventListener('load', async () => {
     });
 });
 
+
+
 function parseMapKey(key) {
     const s = String(key).trim();
     const m = s.match(/^(\d{4})\s*-\s*(\d{4})$/);
@@ -131,6 +144,8 @@ function parseMapKey(key) {
     const y = parseInt(s, 10);
     return { start: y, end: y, key: s };
 }
+
+
 
 function resolveMapKey(year) {
     if (Array.isArray(mapsIndex)) {
@@ -145,9 +160,10 @@ function resolveMapKey(year) {
 async function loadYearData(year) {
     yearInfo.textContent = `Год ${year}`;
 
-    const mapKey = resolveMapKey(year);
-    const dataPath = `data/${year}.json`;
+    const mapKey = resolveMapKey(year);   
+    const dataPath = `data/${year}.json`; 
 
+    
     const b = boundsData[mapKey] || boundsData[year];
     if (b) {
         historicalMap.setBounds(b);
@@ -161,11 +177,14 @@ async function loadYearData(year) {
         let points = await response.json();
         points.forEach((p, idx) => { if (!p.id) p.id = `p-${year}-${idx}`; });
 
+        
+        
         if (mapKey !== currentMapKey) {
             await historicalMap.setImage(`maps/${mapKey}.png`);
             currentMapKey = mapKey;
         }
 
+        
         historicalMap.setPoints(points);
         yandexMap.setPoints(points);
     } catch (error) {
@@ -176,6 +195,7 @@ async function loadYearData(year) {
 }
 
 function showEventInfo(point) {
+    
     popupTitle.textContent = '';
 
     if (point.link) {

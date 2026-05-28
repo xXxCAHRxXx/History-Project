@@ -189,3 +189,31 @@ footer {
 .popup-title-link:visited {
     color: #ffd700;
 }
+
+.map-loader {
+    position: absolute;
+    inset: 0;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+    background: rgba(58, 0, 0, 0.85);
+    z-index: 40;
+    color: #ffd700;
+    font-size: 1.3rem;
+    letter-spacing: 2px;
+}
+
+.map-loader-spinner {
+    width: 54px;
+    height: 54px;
+    border: 6px solid rgba(255, 215, 0, 0.25);
+    border-top-color: #ffd700;
+    border-radius: 50%;
+    animation: map-spin 0.9s linear infinite;
+}
+
+@keyframes map-spin {
+    to { transform: rotate(360deg); }
+}
